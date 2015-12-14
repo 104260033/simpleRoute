@@ -1,0 +1,19 @@
+{
+    "name": "simplesoftware/simpleroute",
+    "description": "simpleframework For Route",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric",
+            "email": "eric.fzy@gmail.com"
+        }
+    ],
+    "autoload" :{
+        "psr-4":{
+            "simple\\" : ""
+        }
+    },
+    "require": {
+        "PHP" : ">=5.4.0"
+    }
+}
